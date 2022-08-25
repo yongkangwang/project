@@ -1,0 +1,230 @@
+
+
+
+"语言选择" = "Language choice";
+
+
+
+
+"请绑定微信" = "Please bind WeChat";
+"请关注微信公众号" = "Please pay attention to WeChat public account";
+
+
+"智能智冷测温贴" = "Smart Refrigeration Temperature Measurement Sticker";
+"邀请你一起来用智冷测温贴,点击接受" = "Invite you to use the cooling temperature sticker together, click to accept";
+
+"共享了一个设备给你" = "Shared a device for you";
+
+"两次输入密码不一致，请重新输入" = "The passwords entered twice do not match, please re-enter";
+
+"无网络连接,请检查网络设置" = "No network connection, check the network settings";
+
+"请勾选使用条款与隐私协议" = "Please tick the Terms of Use and Privacy Policy";
+
+"开始连接设备" = "Start connecting your device";
+
+"进入失败请重试" = "Enter failed please try again";
+
+"连接失败" = "Connect fail";
+"连接成功" = "Connect succeed";
+
+"设备获取温度中..." = "The device acquires the temperature...";
+
+"手机号不能为空" = "The phone number cannot be empty";
+"输入的手机号不正确" = "The phone number entered is incorrect";
+
+"验证码或密码错误" = "Incorrect verification code or password";
+
+
+"此设备未下载微信软件" = "This device does not download weChat software";
+
+
+"您的设备" = "Your device";
+
+"共享上边设备给下边的账号" = "Share the device above to the account number below";
+
+"我已阅读隐私协议与隐私政策" = "I have read the Privacy Policy and Privacy Policy";
+
+
+"请输入10-50之间的值" = "Enter a value between 10-50";
+"请输入10个字以内" = "Please enter less than 10 words";
+
+
+
+"未设置" = "Not set";
+"已设置" = "Set";
+
+
+"没有发现新版本" = "No new versions";
+"修改手机号" = "Modify your phone number";
+
+"绑定手机号" = "Bind the phone number";
+
+"请输入账号" = "account number";
+
+"手机号登录" = "Mobile number login";
+"账号密码登录" = "Account password login";
+"获取验证码" = "Get code";
+"请输入验证码" = "Please enter  code";
+"请输入手机号" = "Please enter mobile number";
+"忘记密码" = "Forget password";
+"用户登录注册" = "User login registration";
+"可以使用以下方式登录" = "You can log in as follows";
+"再次确认密码" = "Confirm the password again";
+"请输入新的密码" = "Please enter a new password";
+"提交" = "Submit";
+
+"请注意" = "Please note that";
+"本应用需要配合智冷智能测温贴设备使用" = "This application needs to be used with refrigeration intelligent temperature measuring paste equipment";
+"已有设备" = "Existing equipment";
+"没有，去买一台" = "No, buy one";
+
+
+"我已知晓" = "I already know";
+"注意事项" = "matters needing attention";
+
+
+//tabbar
+"设备" = "Home";
+"我的" = "My";
+
+
+"请取出智能测温贴并打开手机蓝牙" = "Please take out equipment and turn on  Bluetooth";
+"设备列表" = "Equipment list";
+"连接" = " Connect";
+"开始" = "Begin";
+
+"倒计时" = "count down";
+"正常" = "normal";
+"异常" = "abnormal";
+"实时温度" = "Real time temperature";
+"进入记录模式" = "Enter recording mode";
+"测温贴" = "Temperature measuring paste";
+
+
+//首页
+"上报" = "Report";
+"时间" = "time";
+"蓝牙" = "Bluetooth";
+"已连接" = "Connected";
+"刷新" = "Refresh";
+"数据" = "data";
+
+"测量时长" = "Duration";
+"今日报警" = "Alarm today";
+"设备电量" = "Electricity";
+"蓝牙信号" = "Signal";
+
+"单位" = "Company";
+"体温趋势" = "Temperature trend";
+"全部记录" = "All records";
+"最近报警" = "Recent alarm";
+"报警记录" = "Alarm record";
+
+"设备设置" = "devices setting up";
+"设备名称" = "Equipment name";
+"设备信息" = "Equipment information";
+"自动更新间隔" = "Automatic follow-up interval";
+"报警通知" = "Alarm notification";
+"温度单位" = "Temperature unit";
+"设备固件" = "Device firmware";
+"产品说明书" = "Product specification";
+"分享设备" = "Sharing device";
+"解除绑定" = "Unbind";
+"恢复出厂设置" = "Restore factory settings";
+
+
+
+"高温报警" = "High";
+"低温报警" = "Low";
+"高温和低温报警" = "High and low alarm";
+
+
+
+"最高温度" = "maximum";
+"最低温度" = "Minimum";
+"记录条数" = "records";
+
+
+"注销登录" = "Log off";
+
+"共享设备" = "Shared device";
+"使用手册" = "User manual";
+"帮助与反馈" = "Help and feedback";
+"关于" = "about";
+"版本" = "edition";
+
+
+"头像" = "head portrait";
+"昵称" = "nickname";
+"手机号" = "cell-phone number";
+"微信" = "WeChat";
+"密码" = "password";
+
+
+"相册" = "album";
+"拍照" = "photograph";
+"取消" = "cancel";
+"修改昵称" = "Modify nickname";
+"保存" = "save";
+"字数超出限制" = "The number of words exceeds the limit";
+
+"修改密码" = "Change Password";
+
+"报警设置" = "Alarm settings";
+
+"温度报警" = "temperature alarm";
+"微信报警" = "Wechat alarm";
+"系统报警" = "System alarm";
+"蓝牙断开报警" = "Bluetooth disconnection alarm";
+"低电量提醒" = "Low battery reminder";
+
+
+
+"摄氏度" = "centigrade";
+"华氏度" = "Fahrenheit degree";
+
+"设备型号" = "Equipment model";
+"设备序列号" = "Equipment serial number";
+"设备时区" = "Device time zone";
+"蓝牙MAC地址" = "Bluetooth MAC address";
+"信号强度" = "signal intensity";
+
+"确定" = "determine";
+
+"隐私协议" = "Privacy agreement";
+
+
+"添加设备" = "Add device";
+"添加" = "add to";
+
+
+"我共享的" = "I share";
+"共享给我的" = "Shared to me";
+"等待接收" = "Wait for receipt";
+"取消共享" = "Unshare";
+
+
+"你的体温计已被共享给以下用户" = "Your thermometer has been shared with the following users";
+"你的体温计还未共享给好友" = "Your thermometer hasn't been shared with friends yet";
+
+"添加共享" = "Add a share";
+"发起共享" = "Initiate sharing";
+
+"检测不到此蓝牙设备" = "This Bluetooth device is not detected";
+
+"断开蓝牙" = "Off Bluetooth";
+
+
+"进入记录模式:您可以使用24小时即时读取实时温度,查看测量时长、报警记录共享设备等功能." = "Enter the recording mode: You can use 24-hour real-time reading of real-time temperature, view measurement time, alarm record sharing equipment and other functions.";
+
+"您好,倒计时结束后无需任何操作,设备将断开蓝牙,进入休眠状态,如果您要继续测温并进行温度记录请点击下方按钮" = "Hello, after the countdown is over without any action, the device will disconnect from Bluetooth and go to sleep, if you want to continue taking temperature and record the temperature click the button below";
+
+"已断开" = "Disconnected";
+"连接中" = "Connecting";
+"刷新体温" = "Renewal temperature";
+
+"正常人的体温是相对恒定的" = "People's temperature is relatively constant";
+
+"请输入密码" = "Please enter a password";
+

@@ -1,0 +1,57 @@
+
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+//表示此宏定义内只被OC引用
+
+
+#endif/*__OBJC__*/
+
+//kk六道
+#import "KKHttpAPIConfigure.h"
+
+//宏定义
+#import "KKMacroDefinition.h"
+//嗨聊宏定义
+#import "KKChatMacroDefinition.h"
+#import "KKAPPInfoConfigure.h"
+
+#define RGB_COLOR(_STR_,a) ([UIColor colorWithRed:[[NSString stringWithFormat:@"%lu", strtoul([[_STR_ substringWithRange:NSMakeRange(1, 2)] UTF8String], 0, 16)] intValue] / 255.0 green:[[NSString stringWithFormat:@"%lu", strtoul([[_STR_ substringWithRange:NSMakeRange(3, 2)] UTF8String], 0, 16)] intValue] / 255.0 blue:[[NSString stringWithFormat:@"%lu", strtoul([[_STR_ substringWithRange:NSMakeRange(5, 2)] UTF8String], 0, 16)] intValue] / 255.0 alpha:a])
+
+//获取手机系统版本
+#define SysVersion [[UIDevice currentDevice] systemVersion].floatValue
+
+
+//各种字体颜色
+#define color32 RGB_COLOR(@"#323232",1)
+#define color66 RGB_COLOR(@"#666666",1)
+#define colorCC RGB_COLOR(@"#cccccc",1)
+#define color96 RGB_COLOR(@"#969696",1)
+#define color99 RGB_COLOR(@"#999999",1)
+#define colorf5 RGB_COLOR(@"#f5f5f5",1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#endif/*PrefixHeader_pch*/
+
+
+
+
+
+
